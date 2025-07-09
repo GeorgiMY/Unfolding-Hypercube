@@ -28,3 +28,8 @@ We can do the opposite and break down or unfold a tesseract into 8 cubes or more
 - 2-dimensional cube (square): A square has 4 vertices and 4 edges.
 - 3-dimensional cube: A cube (3-dimensional hypercube) has 8 vertices and 12 edges.
 - 4-dimensional cube (tesseract): A tesseract has 16 vertices and 32 edges. 
+
+### Run the application
+1. Run the following command in the console `python -m venv .venv`
+1. Run the following command in the console `.\.venv\Scripts\activate`
+1. Run the following command in the console `python .\main.py`
